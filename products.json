@@ -1,0 +1,65 @@
+[
+  {
+    "id": "price_1L3ND0KkPcBPLzJUagDuWvCY",
+    "title": "Space Jelly Tshirt",
+    "description": "Bring Cosmo the space Jellyfish to your wardrobe with this high quality tshirt.",
+    "image": "/book/book1.jpg",
+    "price": 20.00
+  },
+  {
+    "id": "price_1L3NADKkPcBPLzJU9MkILqku",
+    "title": "Space Jelly Stickers",
+    "description": "Add some flare to your laptop with a sticker of Cosmo the Space Jellyfish.",
+    "image": "/book/book2.jpg",
+    "price": 10.00
+  },
+  {
+    "id": "price_1L3NEFKkPcBPLzJUVnAcA5M2",
+    "title": "Space Jelly Combo",
+    "description": "Show your love for Cosmo with a tshirt and sticker combo pack!",
+    "image": "/book/book3.jpg",
+    "price": 25.00
+  },
+  {
+    "id": "price_1L3NLWKkPcBPLzJUiJV7Hwvb",
+    "title": "Gift- Birthday",
+    "description": "Show your love for Cosmo with a tshirt and sticker combo pack!",
+    "image": "/gift/gift1.jpeg",
+    "price": 25.00
+  },
+  {
+    "id": "price_1L3NN2KkPcBPLzJUpTaXSvQD",
+    "title": "Gift- Ceremony",
+    "description": "Show your love for Cosmo with a tshirt and sticker combo pack!",
+    "image": "/gift/gift2.jpeg",
+    "price": 25.00
+  },
+  {
+    "id": "price_1L3NM6KkPcBPLzJUmmmjQXAa",
+    "title": "Christmas",
+    "description": "Show your love for Cosmo with a tshirt and sticker combo pack!",
+    "image": "/gift/gift3.jpeg",
+    "price": 25.00
+  },
+  {
+    "id": "price_1L3NGSKkPcBPLzJU1iGWow8j",
+    "title": "Drone Tynk",
+    "description": "Show your love for Cosmo with a tshirt and sticker combo pack!",
+    "image": "/gadgets/gadgets1.jpeg",
+    "price": 24154.00
+  },
+  {
+    "id": "price_1L3NHiKkPcBPLzJUjZYp8jtl",
+    "title": "RoboDime",
+    "description": "Show your love for Cosmo with a tshirt and sticker combo pack!",
+    "image": "/gadgets/gadgets2.jpeg",
+    "price": 3874.99
+  },
+  {
+    "id": "price_1L3NJOKkPcBPLzJUkVniTaPY",
+    "title": "Robot Dome",
+    "description": "Show your love for Cosmo with a tshirt and sticker combo pack!",
+    "image": "/gadgets/gadgets3.jpeg",
+    "price": 150.00
+  }
+]
