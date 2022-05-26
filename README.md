@@ -14,3 +14,6 @@ Test card `4242 4242 4242 4242`  mm/yy xxx
 - [ ] Paypal intrigration
 - [ ] Email Response {order summery...}
 - [ ] user feedbacks , darkmode, multilanguage etc
+
+
+Upcoming Ed: Gatsby
